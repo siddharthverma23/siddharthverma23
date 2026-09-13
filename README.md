@@ -1,6 +1,6 @@
 # Siddharth Verma — Lead Data Scientist & ML Engineer (Toronto, ON)
 
-8+ years shipping production ML and GenAI at Fortune 500 scale. Currently **Lead Data Scientist, Promotional Analytics at Insite AI**, leading a team of 3 building a promotional analytics platform for a global consumer-health CPG client. Previously **The Home Depot**, **Capital One**, **Blue Cross Blue Shield of Illinois**, and **ZS Associates**. Previously a part-time **Data Science Instructor at BrainStation** (2023–2024), teaching 40+ professionals per cohort.
+10+ years shipping production ML and GenAI at Fortune 500 scale. Currently **Lead Data Scientist, Promotional Analytics at Insite AI**, leading a team of 3 building a promotional analytics platform for a global consumer-health CPG client. Previously **The Home Depot**, **Capital One**, **Blue Cross Blue Shield of Illinois**, and **ZS Associates**. Previously a part-time **Data Science Instructor at BrainStation** (2023–2024), teaching 40+ professionals per cohort.
 
 ## What I've shipped
 
